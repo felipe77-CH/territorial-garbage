@@ -10,8 +10,7 @@ management planning. The result shows the solid waste management area.
 So, garbage management should be simplified.
 
 <figure>
-  <img src="https://www.ejemplo.com/imagen.jpg" alt="Texto alternativo">
+  <img src="fluxograma_trabalho.png" alt="Texto alternativo">
   <figcaption>Figura 1: Este es el nombre o título de la imagen.</figcaption>
 </figure>
 
-![Texto alternativo](fluxograma_trabalho.png)
