@@ -1,4 +1,5 @@
 # Territorial-garbage
+
 Solid waste management involves collecting and processing
 garbage. It also recycles products. Solid waste management helps determine
 the best ways to use industrialised garbage. Industrialization produces
