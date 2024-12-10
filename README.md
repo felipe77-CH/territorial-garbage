@@ -38,5 +38,21 @@ The methodology proposed in the study is described in detail along the path show
   <figcaption>Figura 1: Este es el nombre o título de la imagen.</figcaption>
 </figure>
 
+# Results 
 
+- The sanitary landfills in Rio de Janeiro are located near the areas with the highest production of municipal solid waste (MSW).
+- The largest generation of MSW is located in the metropolitan region of Rio de Janeiro, with the Baixada Fluminense standing out.
+- There are still open dumps in the municipality of Teresópolis, which recently suffered from a fire that affected the air quality in the area. The northern area of Rio de Janeiro still contains open dumps (5).
+- According to the ranking, the best MSW management is in the metropolitan region of Rio de Janeiro, and the worst is in the West Zone, North Fluminense region, Mountainous region, and Coastal Lowlands.
+- The existing sanitary landfills in Rio de Janeiro lack adequate leachate treatment systems.
+- Only some of the existing sanitary landfills in Rio de Janeiro use landfill gas to generate electricity or produce biomethane for sale.
+
+# Future Research Topics
+
+- Develop a georeferenced system to reduce the environmental impact of an area and also decrease logistical costs (variable costs).
+- Implement supervision policies for final waste disposal by private companies.
+- Implement calculations for the dispersion of aromatic organic compounds as a measure of their impact on nearby populations.
+- Work on hydrological models to study the effect of leachate on watershed areas.
+- Evaluate the option of linking biogas production with the integrated electricity grid to increase funds for waste collection and disposal.
+- Dynamic estimation of leachate treatment stations (flow rates).
 
