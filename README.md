@@ -31,6 +31,7 @@ These variables were selected in the study as key indicators of urban solid wast
 
 7. **Types of Final Urban Solid Waste Disposal**: Geographic representation classifying municipalities based on the primary type of waste disposal (landfill, open dump, recycling, among others).  
 
+The methodology proposed in the study is described in detail along the path shown in figure Nº1. This figure clearly and systematically illustrates the key steps and processes that make up the urban solid waste management approach, from data collection to the analysis and interpretation of results. Through this visual representation, the comprehensive approach adopted to evaluate the selected indicators is made easier to understand, allowing for a better comprehension of the procedures and interactions between the different elements of the study.
 
 <figure style="text-align: center;">
   <img src="fluxograma_trabalho.png" alt="Texto alternativo">
