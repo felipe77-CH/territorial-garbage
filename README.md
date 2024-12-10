@@ -11,6 +11,7 @@ So, garbage management should be simplified.
 
 <figure>
   <img src="fluxograma_trabalho.png" alt="Texto alternativo">
-  <figcaption>Figura 1: Este es el nombre o título de la imagen.</figcaption>
+  <figcaption style="text-align: center;">Figura 1: Este es el nombre o título de la imagen.</figcaption>
 </figure>
+
 
