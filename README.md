@@ -9,4 +9,5 @@ study examined Rio de Janeiro district in Brazil. This study shows how GIS may b
 management planning. The result shows the solid waste management area.
 So, garbage management should be simplified.
 
+**Figura 1:** Este es el nombre o título de la imagen.
 ![Texto alternativo](fluxograma_trabalho.png)
